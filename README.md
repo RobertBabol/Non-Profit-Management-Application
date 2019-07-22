@@ -1,6 +1,6 @@
 # Non-Profit-Management-Application
 
-The purpose of this project is to provide management software for a local non-profit club. This software
+The purpose of this application is to provide management software for a local non-profit club. This software
 will allow tracking of important information that is needed to run the club.
 This application is able to:
 
