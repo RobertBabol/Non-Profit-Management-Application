@@ -2,7 +2,7 @@
 
 The purpose of this project is to provide management software for a local non-profit club. This software
 will allow tracking of important information that is needed to run the club.
-This application would be able to:
+This application is able to:
 
 • Track member information
 
@@ -16,13 +16,13 @@ Keep track of payments from the members for things like:
 
 • Member dues
 
-•  Payments for events like trips or other activities
+• Payments for events like trips or other activities
 
-•  Donations to the club
+• Donations to the club
 
 • Maintain a calendar with event dates for the club
 
-The software is written in C# and uses MYSQL as the database engine that
+The software is written in C# and WPF and uses MYSQL as the database engine that
 can be stored on a web server. This application is designed so that the information stored in the database can be used for
 future added features like:
 
