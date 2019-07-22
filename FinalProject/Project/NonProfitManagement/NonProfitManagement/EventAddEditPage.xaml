@@ -1,0 +1,87 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NonProfitManagement"
+      xmlns:Properties="clr-namespace:NonProfitManagement.Properties" x:Class="NonProfitManagement.EventAddEditPage"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EventAddEditPage">
+
+    <Grid x:Name="gBackground">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="tbCost" HorizontalAlignment="Left" Margin="60,0,0,0" TextWrapping="Wrap" Text="Cost: " VerticalAlignment="Center" Foreground="White" FontSize="24" Grid.Row="1"/>
+        <TextBlock x:Name="tbStartDate" HorizontalAlignment="Left" Margin="60,0,0,0" TextWrapping="Wrap" Text="Start Date: " VerticalAlignment="Center" Foreground="White" FontSize="24" Grid.Row="2"/>
+        <TextBlock x:Name="tbEndDate" HorizontalAlignment="Left" Margin="60,0,0,0" TextWrapping="Wrap" Text="End Date: " VerticalAlignment="Center" Foreground="White" FontSize="24" Grid.Row="3"/>
+        <TextBlock x:Name="tbDescription" HorizontalAlignment="Left" Margin="60,0,0,0" TextWrapping="Wrap" Text="Description: " VerticalAlignment="Center" Foreground="White" FontSize="24" Grid.Row="4"/>
+        <TextBox x:Name="txtDescription" Grid.Column="1" Height="120" Margin="0" Grid.Row="4" TextWrapping="Wrap" Width="350" Grid.RowSpan="2" Grid.ColumnSpan="2" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <DatePicker x:Name="dpStartDate" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Center" SelectedDateFormat="Short" FontSize="14" Width="155"/>
+        <DatePicker x:Name="dpEndDate" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Center" SelectedDateFormat="Short" FontSize="14" Width="155"/>
+        <TextBox x:Name="txtCost" Grid.Column="1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Center" Width="153" Grid.Row="1"/>
+        <Button x:Name="btnAddUpdateEvent" Content="Add Event" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="6" VerticalAlignment="Center" Width="123" Height="28"  AutomationProperties.HelpText="Add Member" Click="Btn_Add_Update_Event_Click" Grid.ColumnSpan="2"  Margin="130,9.667,146,24"/>
+        <TextBlock x:Name="tbEventType" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Event Type: " VerticalAlignment="Center" Foreground="White" FontSize="24" Grid.Column="2" Grid.Row="1"/>
+
+        <ComboBox x:Name="cbEventType" HorizontalAlignment="Left" VerticalAlignment="Center" Width="160" SelectedIndex="0" Height="22" Grid.Column="3" Grid.Row="1">
+            <ComboBox.DataContext>
+                <Properties:Resources/>
+            </ComboBox.DataContext>
+        </ComboBox>
+        <TextBlock x:Name="tbStartTime" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Start Time: " VerticalAlignment="Center" Foreground="White" FontSize="24" Grid.Column="2" Grid.Row="2"/>
+        <TextBlock x:Name="tbEndTime" HorizontalAlignment="Left" TextWrapping="Wrap" Text="End Time: " VerticalAlignment="Center" Foreground="White" FontSize="24" Grid.Column="2" Grid.Row="3"/>
+        <TextBlock x:Name="tbAddEvent" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Add Event" VerticalAlignment="Center" Foreground="White" FontSize="24" TextDecorations="Underline" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="cbStartHour" SelectedValuePath="Content" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Center" Width="43">
+            <ComboBoxItem Content="01"/>
+            <ComboBoxItem Content="02"/>
+            <ComboBoxItem Content="03"/>
+            <ComboBoxItem Content="04"/>
+            <ComboBoxItem Content="05"/>
+            <ComboBoxItem Content="06"/>
+            <ComboBoxItem Content="07"/>
+            <ComboBoxItem Content="08"/>
+            <ComboBoxItem Content="09"/>
+            <ComboBoxItem Content="10"/>
+            <ComboBoxItem Content="11"/>
+            <ComboBoxItem Content="12" IsSelected="True"/>
+        </ComboBox>
+        <ComboBox x:Name="cbStartMinute" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Center" Width="67" Margin="48,21,0,21"/>
+        <ComboBox x:Name="cbStartPeriod" SelectedValuePath="Content" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Center" Width="43" Margin="120,0,0,0">
+            <ComboBoxItem Content="AM" IsSelected="True"/>
+            <ComboBoxItem Content="PM"/>
+        </ComboBox>
+        <ComboBox x:Name="cbEndHour" SelectedValuePath="Content" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Center" Width="43" Margin="0,21">
+            <ComboBoxItem Content="01"/>
+            <ComboBoxItem Content="02"/>
+            <ComboBoxItem Content="03"/>
+            <ComboBoxItem Content="04"/>
+            <ComboBoxItem Content="05"/>
+            <ComboBoxItem Content="06"/>
+            <ComboBoxItem Content="07"/>
+            <ComboBoxItem Content="08"/>
+            <ComboBoxItem Content="09"/>
+            <ComboBoxItem Content="10"/>
+            <ComboBoxItem Content="11"/>
+            <ComboBoxItem Content="12" IsSelected="True"/>
+        </ComboBox>
+        <ComboBox x:Name="cbEndMinute" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Center" Width="67" Margin="48,21,0,21"/>
+        <ComboBox x:Name="cbEndPeriod" SelectedValuePath="Content" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Center" Width="43" Margin="120,21,0,21">
+            <ComboBoxItem Content="AM" IsSelected="True"/>
+            <ComboBoxItem Content="PM"/>
+        </ComboBox>
+
+    </Grid>
+</Page>

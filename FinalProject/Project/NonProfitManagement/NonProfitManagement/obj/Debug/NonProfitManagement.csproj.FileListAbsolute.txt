@@ -1,0 +1,130 @@
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe.config
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.pdb
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\bin\Debug\MySql.Data.dll
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\bin\Debug\MySql.Data.xml
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csprojAssemblyReference.cache
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\MainWindow.g.cs
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\App.g.cs
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement_MarkupCompile.cache
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement_MarkupCompile.lref
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\MainWindow.baml
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.g.resources
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.Properties.Resources.resources
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.GenerateResource.cache
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.CoreCompileInputs.cache
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.CopyComplete
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.exe
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.pdb
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.Windows.Theme.dll
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.Windows.Theme.pdb
+C:\Users\jason\Downloads\NonProfitManagement\NonProfitManagement\obj\Debug\App.baml
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe.config
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.exe
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.pdb
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.pdb
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.Windows.Theme.dll
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.Windows.Theme.pdb
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csprojResolveAssemblyReference.cache
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\MainWindow.g.cs
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\App.g.cs
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement_MarkupCompile.cache
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement_MarkupCompile.lref
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\App.baml
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\MainWindow.baml
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.g.resources
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.Properties.Resources.resources
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder (2)\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.GenerateResource.Cache
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe.config
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.exe
+C:\Users\psignv1jww\Documents\Visual Studio 2017\Projects\New folder\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.pdb
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe.config
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.pdb
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\bin\Debug\MySql.Data.dll
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\bin\Debug\Google.Protobuf.dll
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\bin\Debug\MySql.Data.xml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csprojAssemblyReference.cache
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\ExpressionDark.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\Administration.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\EventAddEditPage.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\EventsList.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\EventsSearch.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\Login.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\MainWindow.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\MemberAddEditPage.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\MemberSearch.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\MembersList.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\PaymentsSearch.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\ProcessPayment.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\App.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement_MarkupCompile.cache
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement_MarkupCompile.lref
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\App.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\Administration.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\EventAddEditPage.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\EventsList.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\EventsSearch.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\Login.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\MainWindow.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\MemberAddEditPage.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\MemberSearch.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\MembersList.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\PaymentsSearch.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\ProcessPayment.baml
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.g.resources
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.Properties.Resources.resources
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.GenerateResource.cache
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.CoreCompileInputs.cache
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.CopyComplete
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.exe
+G:\Class Documents\Senior Project\Code\Sprint 4\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.pdb
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe.config
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe.manifest
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.application
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.exe
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\bin\Debug\NonProfitManagement.pdb
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\bin\Debug\MySql.Data.dll
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\bin\Debug\Google.Protobuf.dll
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\bin\Debug\MySql.Data.xml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csprojAssemblyReference.cache
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\ExpressionDark.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\Administration.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\EventAddEditPage.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\EventsList.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\EventsSearch.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\Login.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\MainWindow.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\MemberAddEditPage.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\MemberSearch.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\MembersList.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\PaymentsSearch.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\ProcessPayment.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\App.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement_MarkupCompile.cache
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement_MarkupCompile.lref
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\App.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\Administration.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\EventAddEditPage.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\EventsList.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\EventsSearch.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\Login.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\MainWindow.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\MemberAddEditPage.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\MemberSearch.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\MembersList.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\PaymentsSearch.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\ProcessPayment.baml
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.g.resources
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.Properties.Resources.resources
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.GenerateResource.cache
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.CoreCompileInputs.cache
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.exe.manifest
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.application
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.csproj.CopyComplete
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.exe
+G:\Class Documents\Senior Project\Code\FinalProject\Project\NonProfitManagement\NonProfitManagement\obj\Debug\NonProfitManagement.pdb

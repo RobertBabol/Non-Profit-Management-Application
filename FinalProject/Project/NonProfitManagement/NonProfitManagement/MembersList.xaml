@@ -1,0 +1,50 @@
+﻿<Page x:Class="NonProfitManagement.MembersList"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NonProfitManagement"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="1101
+      "
+      Title="MembersList">
+
+    <Grid>
+        <DataGrid x:Name="dgMembers" HorizontalAlignment="Left" Height="363" Margin="10,77,0,0" VerticalAlignment="Top" Width="1081" IsReadOnly="True" SelectionChanged="DgMembers_SelectionChanged" ColumnWidth="*" AlternationCount="2">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="Black"/>
+                    <Setter Property="Foreground" Value="White" />
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="FontSize" Value="12"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.RowStyle>
+
+                <Style TargetType="{x:Type DataGridRow}">
+                    <Style.Triggers>
+                        <Trigger Property="AlternationIndex" Value="0">
+                            <Setter Property="Background" Value="White" />
+                        </Trigger>
+                        <Trigger Property="AlternationIndex" Value="1">
+                            <Setter Property="Background" Value="#595959" />
+                            <Setter Property="Foreground" Value="White" />
+                        </Trigger>
+
+                        <DataTrigger Binding="{Binding Path=Selectable}" Value="False">
+                            <DataTrigger.Setters>
+                                <Setter Property="Background" Value="LightGray" />
+                            </DataTrigger.Setters>
+                        </DataTrigger>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF2C4674"/>
+                            <Setter Property="Foreground" Value="White"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.RowStyle>
+        </DataGrid>
+        <TextBlock x:Name="Member_Information" Margin="334,8,362,410" TextWrapping="Wrap" Text="Members" VerticalAlignment="Center" Foreground="White" Width="104" FontSize="24" HorizontalAlignment="Center" TextDecorations="Underline"/>
+    </Grid>
+</Page>

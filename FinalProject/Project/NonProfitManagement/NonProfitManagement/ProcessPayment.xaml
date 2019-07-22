@@ -1,0 +1,48 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NonProfitManagement"
+      xmlns:Properties="clr-namespace:NonProfitManagement.Properties" x:Class="NonProfitManagement.ProcessPayment"
+      mc:Ignorable="d" 
+      d:DesignHeight="492" d:DesignWidth="1101"
+      Title="ProcessPayment">
+
+    <Grid>
+        <TextBlock x:Name="lblPaymentDate" HorizontalAlignment="Left" Margin="204,127,0,333" TextWrapping="Wrap" Text="Payment Date: " VerticalAlignment="Center" Foreground="White" FontSize="24"/>
+        <TextBlock x:Name="lblDescription" HorizontalAlignment="Left" Margin="204,273,0,187" TextWrapping="Wrap" Text="Description: " VerticalAlignment="Center" Foreground="White" FontSize="24"/>
+        <TextBox x:Name="txtDescription" Height="120" Margin="374,283,0,89" TextWrapping="Wrap" Text="" Width="350" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <DatePicker x:Name="drpDate" HorizontalAlignment="Left" VerticalAlignment="Center" SelectedDateFormat="Short" FontSize="14" Width="155" Margin="374,133,0,333"/>
+        <TextBlock x:Name="lblAmount" HorizontalAlignment="Left" Margin="204,177,0,283" TextWrapping="Wrap" Text="Amount: " VerticalAlignment="Center" Foreground="White" FontSize="24"/>
+        <TextBlock x:Name="lblMemberID" HorizontalAlignment="Left" Margin="204,69,0,391" TextWrapping="Wrap" Text="Member ID: " VerticalAlignment="Center" Foreground="White" FontSize="24"/>
+        <TextBox x:Name="txtAmount" Text="" PreviewTextInput="ValidateCurrencyTextBox" Height="26" Margin="374,183,0,283" TextWrapping="Wrap"  Width="128" VerticalAlignment="Center" HorizontalAlignment="Left" />
+
+        <ComboBox x:Name="cboMemberID"  VerticalAlignment="Center" SelectedIndex="0" Height="22" Margin="374,79,377.333,391">
+            <ComboBox.DataContext>
+                <Properties:Resources/>
+            </ComboBox.DataContext>
+        </ComboBox>
+        <TextBlock x:Name="lblEventID" HorizontalAlignment="Left" Margin="204,227,0,233" TextWrapping="Wrap" Text="Event ID: " VerticalAlignment="Center" Foreground="White" FontSize="24"/>
+        <ComboBox x:Name="drpEventID"  VerticalAlignment="Center" SelectedIndex="0" Height="22" Margin="374,237,377.333,233">
+            <ComboBox.DataContext>
+                <Properties:Resources/>
+            </ComboBox.DataContext>
+        </ComboBox>
+        <TextBlock x:Name="lblSource" HorizontalAlignment="Left" Margin="572,177,0,283" TextWrapping="Wrap" Text="Source: " VerticalAlignment="Center" Foreground="White" FontSize="24"/>
+        <ComboBox x:Name="drpSource"  VerticalAlignment="Center" Width="160" SelectedIndex="0" Height="22" Margin="684,187,257.333,283">
+            <ComboBox.DataContext>
+                <Properties:Resources/>
+            </ComboBox.DataContext>
+        </ComboBox>
+        <Button x:Name="btnProcessPayment" Content="Process Payment" HorizontalAlignment="Center" VerticalAlignment="Center" Width="123" Height="28"  AutomationProperties.HelpText="Add Member" Margin="790,322,176.333,127"  Click="btnProcessPayment_Click"/>
+        <TextBlock x:Name="lblType" HorizontalAlignment="Left" Margin="742,231,0,229" TextWrapping="Wrap" Text="Type: " VerticalAlignment="Center" Foreground="White" FontSize="24"/>
+        <ComboBox x:Name="drpType"  VerticalAlignment="Center" Width="160" SelectedIndex="0" Height="22" Margin="820,239,121.333,231">
+            <ComboBox.DataContext>
+                <Properties:Resources/>
+            </ComboBox.DataContext>
+        </ComboBox>
+        <TextBlock x:Name="lblProcessPayment" Margin="448,10,466.333,444" TextWrapping="Wrap" VerticalAlignment="Center" Foreground="White" Width="187" FontSize="24" HorizontalAlignment="Center" TextDecorations="Underline" Height="38"><Run Text="Process Payment"/><LineBreak/><Run/></TextBlock>
+
+    </Grid>
+</Page>

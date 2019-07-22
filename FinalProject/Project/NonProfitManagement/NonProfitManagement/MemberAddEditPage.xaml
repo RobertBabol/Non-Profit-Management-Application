@@ -1,0 +1,55 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NonProfitManagement"
+      xmlns:Properties="clr-namespace:NonProfitManagement.Properties" x:Class="NonProfitManagement.MemberAddEditPage"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MemberAddEditPage">
+
+    <Grid x:Name="Background" Margin="10" MinWidth="4">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="tbFirstName" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="First Name: " VerticalAlignment="Top" Foreground="White" FontSize="20" Grid.Row="1" Grid.RowSpan="2"/>
+        <TextBlock x:Name="tbMiddleName" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Middle Name: " Foreground="White" FontSize="20" Grid.Row="2" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tbLastName" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Last Name: " Foreground="White" FontSize="20" Grid.Row="3" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tbCellPhone" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Cell Phone: " Foreground="White" FontSize="20" VerticalAlignment="Top" Grid.Row="5"/>
+        <TextBlock x:Name="tbWorkPhone" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Work Phone: " Foreground="White" FontSize="20" VerticalAlignment="Top" Grid.Row="6"/>
+        <TextBlock x:Name="tbHomePhone" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Home Phone: " Foreground="White" FontSize="20" VerticalAlignment="Top" Grid.Row="7"/>
+        <TextBlock x:Name="tbStreetAddress" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Street Address: " Foreground="White" FontSize="20" VerticalAlignment="Top" Grid.Row="1" Grid.Column="2" Panel.ZIndex="2"/>
+        <TextBlock x:Name="tbStreetNumber" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Street Number: " Foreground="White" FontSize="20" VerticalAlignment="Top" Grid.Row="2" Grid.Column="2"/>
+        <TextBlock x:Name="tbCity" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="City: " Foreground="White" FontSize="20" VerticalAlignment="Top" Grid.Row="3" Grid.Column="2"/>
+        <TextBlock x:Name="tbState" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="State: " Foreground="White" FontSize="20" VerticalAlignment="Top" Grid.Row="4" Grid.Column="2"/>
+        <TextBlock x:Name="tbZip" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Zip Code: " Foreground="White" FontSize="20" VerticalAlignment="Top" Grid.Row="5" Grid.Column="2"/>
+        <TextBox x:Name="txtFirstName" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" FontSize="14" Width="160" Grid.Row="1" VerticalAlignment="Top" TabIndex="0"/>
+        <TextBox x:Name="txtMiddleName" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160"  Grid.Row="2" TabIndex="1"/>
+        <TextBox x:Name="txtLastName" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160" Grid.Row="3" TabIndex="2"/>
+        <TextBox x:Name="txtCellPhone" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160" Grid.Row="5" TabIndex="3"/>
+        <TextBox x:Name="txtWorkPhone" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160" Grid.Row="6" TabIndex="4"/>
+        <TextBox x:Name="txtHomePhone" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160" Grid.Row="7" TabIndex="5"/>
+        <TextBox x:Name="txtStreetAddress" Grid.Column="3" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160" Grid.Row="1" TabIndex="7"/>
+        <TextBox x:Name="txtZip" Grid.Column="3" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160" Grid.Row="5"  TabIndex="11"/>
+        <TextBox x:Name="txtState" Grid.Column="3" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160" Grid.Row="4" TabIndex="10"/>
+        <TextBox x:Name="txtCity" Grid.Column="3" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160" Grid.Row="3" TabIndex="9"/>
+        <TextBox x:Name="txtStreetNumber" Grid.Column="3" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Width="160" Grid.Row="2" TabIndex="8"/>
+        <TextBlock x:Name="tbAddMember" TextWrapping="Wrap" Text="Add Member" VerticalAlignment="Center" Foreground="White" FontSize="24" Grid.ColumnSpan="2" HorizontalAlignment="Center" TextDecorations="Underline" Grid.Column="1"/>
+        <Button x:Name="btnAddMember" Content="Add Member" Grid.Column="2" HorizontalAlignment="Center" Margin="132,6,132,15" Grid.Row="8" VerticalAlignment="Center" Width="123" Height="28"  AutomationProperties.HelpText="Add Member" Click="Add_Member_BTN_Click" Grid.ColumnSpan="2" />
+    </Grid>
+</Page>

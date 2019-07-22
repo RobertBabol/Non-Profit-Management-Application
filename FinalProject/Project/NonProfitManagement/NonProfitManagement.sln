@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonProfitManagement", "NonProfitManagement\NonProfitManagement.csproj", "{AA1B2240-A94A-47CB-9016-DB1267DA88EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1B2240-A94A-47CB-9016-DB1267DA88EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1B2240-A94A-47CB-9016-DB1267DA88EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1B2240-A94A-47CB-9016-DB1267DA88EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1B2240-A94A-47CB-9016-DB1267DA88EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
