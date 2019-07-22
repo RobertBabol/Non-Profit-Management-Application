@@ -10,7 +10,9 @@ This application would be able to:
 
 • Keep track of important club information
 
-• Keep track of payments from the members for things like:
+
+
+Keep track of payments from the members for things like:
 
 • Member dues
 
